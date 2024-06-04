@@ -1,0 +1,11 @@
+name: grna_dash
+channels:
+  - conda-forge
+dependencies:
+  - python==2.7.*
+  - biopython
+  - pandas
+  - dash
+  - plotly
+pip:
+  - dash-mantine-components
